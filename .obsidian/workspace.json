@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-daily/2026/W 22 2026/28 May.md",
+                "file": "04-learning/core-cs/Language/C/history..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28 May"
+              "title": "history."
             }
           }
         ]
@@ -196,13 +196,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "92163f5c6918bb36",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +232,17 @@
   },
   "active": "3084e85b20958056",
   "lastOpenFiles": [
+    "Pasted image 20260529133020.png",
+    "Pasted image 20260529132805.png",
+    "Pasted image 20260529132352.png",
+    "Pasted image 20260529132125.png",
+    "Pasted image 20260529131308.png",
+    "Pasted image 20260529131026.png",
+    "04-learning/dsa/DSA Tracker.md",
+    "04-learning/core-cs/Language/C/history..md",
+    "04-learning/core-cs/Language/C",
+    "04-learning/core-cs/Language",
+    "02-daily/2026/W 22 2026/28 May.md",
     "10-scripts/backup.sh.md",
     "00-command-center/content-pipeline.md",
     "00-command-center/dashboard.md",
@@ -233,10 +254,8 @@
     "09-templates/concept-template.md",
     "09-templates/bottleneck-template.md",
     "README.md",
-    "02-daily/2026/W 22 2026/28 May.md",
     "05-problem-solving/dsa-tracker.md",
     "02-daily/2026/W 22 2026",
-    "04-learning/dsa/DSA Tracker.md",
     "04-learning/dsa/Learning.md 1 4 1 4.md",
     "04-learning/system-design/Learning.md 1 4 1 4 1.md",
     "04-learning/core-cs/compilers/Learning.md 1 4.md",
@@ -247,8 +266,6 @@
     "04-learning/ai-ml/math/Learning.md 1.md",
     "04-learning/backend/Learning.md 1 3.md",
     "04-learning/ai-ml/ml-infra/Learning.md 1 2.md",
-    "04-learning/ai-ml/ml/Learning.md 1 1.md",
-    "04-learning/ai-ml/deep-learning/Learning.md.md",
     "05-problem-solving/ICPC"
   ]
 }
