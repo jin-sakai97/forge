@@ -230,8 +230,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3084e85b20958056",
+  "active": "f98903f3228e5e59",
   "lastOpenFiles": [
+    "04-learning/core-cs/Language/C/Building_C.md~",
+    "04-learning/core-cs/Language/C/Building_C.md",
     "Pasted image 20260529133020.png",
     "Pasted image 20260529132805.png",
     "Pasted image 20260529132352.png",
@@ -265,7 +267,6 @@
     "04-learning/core-cs/networks/Learning.md 1 4 1 1.md",
     "04-learning/ai-ml/math/Learning.md 1.md",
     "04-learning/backend/Learning.md 1 3.md",
-    "04-learning/ai-ml/ml-infra/Learning.md 1 2.md",
     "05-problem-solving/ICPC"
   ]
 }
