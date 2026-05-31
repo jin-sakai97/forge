@@ -31,4 +31,4 @@ In this lecture, _Dr. Chuck Severance_ explores the historical significance of 1
 - **Networking & Commodities (1990s-2000s):** The focus shifted to internet connectivity and the
 
 1. separation of concerns
-2. 
+2. Yes
